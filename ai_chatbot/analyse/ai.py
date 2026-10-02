@@ -37,7 +37,7 @@ def analyse_document(document, question):
 
     Instructions:
     1. Answer using the information found in the document above as the primary source.
-    2. If the user asks about a specific term, word, or concept mentioned in the document (e.g., "what is RAG?"), explain it clearly:
+    2. If the user asks about a specific term, word, or concept mentioned in the document, explain it clearly:
         - First, show how/where it appears or is used in the document.
         - Then explain what it means in simple terms, using the document's context.
         - If the document doesn't explain it in detail, you may use your general knowledge to give a clear, accurate explanation, but mention that this extra detail is not from the document.
